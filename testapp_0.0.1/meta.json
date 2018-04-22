@@ -1,0 +1,10 @@
+{
+  "Author":"RamiLego4Game",
+  "Name":"TestApp",
+  "Description":"A system program to test the packages system.",
+  "Version":"0.0.1",
+  "Dependencies":{
+    "liko12": ">=0.7.2"
+    "liko12.DiskOS": ">=0.01"
+  }
+}
