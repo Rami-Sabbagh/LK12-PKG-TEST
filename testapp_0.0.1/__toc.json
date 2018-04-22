@@ -1,8 +1,8 @@
 [
   "meta.json",
   "init.lua",
-  {
+  [
     "Programs",
     "testapp.lua"
-  }
+  ]
 ]
